@@ -1,6 +1,6 @@
 max_steps=10
 num_rounds=100
-batch_size=16
+batch_size=8
 gradient_accumulation_steps=1
 seq_length=512
 num_clients=20
